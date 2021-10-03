@@ -1,0 +1,21 @@
+{
+  "name": "strapi-provider-upload-aws-s3-private",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokenx-finance/strapi-provider-upload-aws-s3-private.git"
+  },
+  "author": "Panit Wechasil",
+  "license": "UNLICENSE",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "aws-sdk": "^2.999.0"
+  }
+}
