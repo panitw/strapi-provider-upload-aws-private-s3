@@ -10,7 +10,7 @@
     "url": "git+https://github.com/tokenx-finance/strapi-provider-upload-aws-s3-private.git"
   },
   "author": "Panit Wechasil",
-  "license": "UNLICENSE",
+  "license": "MIT",
   "directories": {
     "lib": "./lib"
   },
