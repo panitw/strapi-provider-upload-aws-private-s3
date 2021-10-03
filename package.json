@@ -1,13 +1,13 @@
 {
-  "name": "strapi-provider-upload-aws-s3-private",
+  "name": "strapi-provider-upload-aws-private-s3",
   "version": "1.0.0",
-  "description": "",
+  "description": "AWS Private S3 Bucket Uploader",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tokenx-finance/strapi-provider-upload-aws-s3-private.git"
+    "url": "git+https://github.com/tokenx-finance/strapi-provider-upload-aws-private-s3.git"
   },
   "author": "Panit Wechasil",
   "license": "MIT",

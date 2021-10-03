@@ -1,4 +1,4 @@
-# strapi-provider-upload-aws-s3-private
+# strapi-provider-upload-aws-private-s3
 
 ## Purpose of this package
 
